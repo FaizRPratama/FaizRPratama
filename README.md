@@ -16,3 +16,9 @@ Here are some ideas to get you started:
 -->
 
  ![alt text](ling-serene-plume.gif)
+
+ ##### Skill
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,vscode,arduino,prisma,php,opencv,notion,figma,anaconda)](https://skillicons.dev)
+
+ ##### My Github Stats
+ ![Faiz Rifqi Pratama GitHub stats](https://github-readme-stats.vercel.app/api?username=FaizRPratama&show_icons=true&theme=radical)
